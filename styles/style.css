@@ -175,7 +175,7 @@ nav ul li a {
 
 /* Hero Section */
 #hero {
-  height: 720px;
+  height: 620px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   /* We're not going to use automatic template columns, because we need to know when the columns is go below. So we can exchange the order of the element */

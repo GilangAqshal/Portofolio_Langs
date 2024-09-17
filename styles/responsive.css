@@ -5,7 +5,7 @@
   }
 
   .grid-3 {
-    gap: 1rem;
+    gap: 2rem;
   }
 
   .skills-right ul li {
@@ -75,7 +75,7 @@
 
   /* Hero Section */
   #hero {
-    grid-template-columns: 1fr;
+    grid-template-columns: 2fr;
     height: fit-content;
   }
 
@@ -103,7 +103,7 @@
 
   /* Skills Section */
   .skills-grid {
-    gap: 1rem;
+    gap: 2rem;
   }
 
   /* Footer */
